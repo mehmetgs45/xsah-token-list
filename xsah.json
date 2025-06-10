@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "3F8zQuatSZq69V6h17oSQUGhMMkR6G7ceDeyjkSipump",
+  "symbol": "XSAH",
+  "name": "XSah Coin",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/mehmetgs45/xsah-token-list/main/src/tokens/solana/xsah.png",
+  "tags": ["community", "meme", "freedom"],
+  "extensions": {
+    "website": "https://xsah.org",
+    "twitter": "https://x.com/xsahcoin",
+    "github": "https://github.com/mehmetgs45/xsah-token-list"
+  }
+}
